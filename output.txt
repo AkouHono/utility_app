@@ -1,0 +1,5 @@
+Processed String: Dart programming is fun - processed by Dart Utility
+Reversed: nuf si gnimmargorp traD
+Uppercase: DART PROGRAMMING IS FUN
+Lowercase: dart programming is fun
+Word Lengths: {programming: 11, is: 2, fun: 3, Dart: 4}

@@ -1,0 +1,12 @@
+Input:  Dart programming is fun
+Reversed: nuf si gnimmargorp traD 
+Uppercase:  DART PROGRAMMING IS FUN
+Length: 24
+Timestamp: 2025-11-09T03:10:49.827236
+
+Input: Dart programming is fun
+Reversed: nuf si gnimmargorp traD
+Uppercase: DART PROGRAMMING IS FUN
+Length: 23
+Timestamp: 2025-11-09T03:14:14.229774
+
